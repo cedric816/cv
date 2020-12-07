@@ -37,10 +37,6 @@ img{
     margin-bottom: 15px;
 }
 
-html {
-   background-image: url(img/fond.png);
-}
-
 .quote {
     font-style: italic;
 }
@@ -62,7 +58,7 @@ html {
     padding: 0px;
     text-align: center;
     background-color: darkolivegreen;
-    box-shadow: 10px 5px 5px white;
+    box-shadow: 10px 5px 5px black;
 }
 
 #menu li{
