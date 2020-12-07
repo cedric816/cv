@@ -1,0 +1,123 @@
+h1{
+  font-size: 18px;
+  text-transform: uppercase;
+  color: white;
+  margin-bottom: 20px;
+  margin-top: 15px
+}
+
+h2{
+   font-style: italic; 
+   color: darkolivegreen;
+   text-decoration: underline;
+   font-size: 24px;
+}
+
+h3{ 
+   font-style: italic;
+   color: darkolivegreen;
+   text-decoration: underline;
+   text-align: center;
+   font-size: 24px;
+}
+
+h4{
+    color: darkolivegreen;
+    font-size: 16;
+    margin-bottom: 1px;
+}
+
+ul{
+    font-size: 12px;
+    margin-left: 350px;
+}
+
+img{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+html {
+   background-image: url(img/fond.png);
+}
+
+.quote {
+    font-style: italic;
+}
+
+.quotebis {
+    font-style: italic;
+    margin-top: 1px;
+}
+
+.quoteter{
+    margin: 0px 5px 0px 5px;
+}
+
+#menu{
+    width: 750px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px;
+    text-align: center;
+    background-color: darkolivegreen;
+    box-shadow: 10px 5px 5px white;
+}
+
+#menu li{
+   display: inline;
+   text-align: center;
+   margin-top: 20px;
+   border-right: 2px solid white;
+}
+
+#menu li a{
+    margin-right: 60px;
+    margin-left: 60px;
+    color: navajowhite;
+    font-size: 16;
+    text-decoration: none;   
+}
+
+.page{
+    box-shadow: 10px 5px 5px grey;
+    letter-spacing: 1px;
+    width: 750px;
+    height: 1020px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    background-color: beige;
+}
+
+.blocgauche{
+    float: left;
+    width: 250px;
+    height: 1200;
+    text-align: center;
+    margin: 40px 40px 0px 30px;
+    color: darkgreen;
+    font-size: 16px;
+}
+
+.identite {
+    height: 550px;
+    box-shadow: 5px 5px 5px black;
+    background-color: darkolivegreen;
+    color: white;
+    font-size: 14px;
+    border-radius: 30px;
+}
+
+.formations {
+    border-radius: 30px;
+    box-shadow: 10px 5px 5px darkolivegreen;
+}
+
+.experiences {
+    color: darkgreen;
+    margin-right: 20px;
+}
+
+
